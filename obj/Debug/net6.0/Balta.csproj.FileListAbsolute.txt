@@ -1,0 +1,15 @@
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/bin/Debug/net6.0/Balta
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/bin/Debug/net6.0/Balta.deps.json
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/bin/Debug/net6.0/Balta.runtimeconfig.json
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/bin/Debug/net6.0/Balta.dll
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/bin/Debug/net6.0/Balta.pdb
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.csproj.AssemblyReference.cache
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.AssemblyInfoInputs.cache
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.AssemblyInfo.cs
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.csproj.CoreCompileInputs.cache
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.dll
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/refint/Balta.dll
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.pdb
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/Balta.genruntimeconfig.cache
+/Users/luisgustavoamaral/Library/CloudStorage/OneDrive-PUCRS-BR/DEV/Balta/obj/Debug/net6.0/ref/Balta.dll
